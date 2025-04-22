@@ -1,1 +1,1 @@
-Hi, I'm usants. I'm a student at the U of A taking LING 529: Human Language Technology I.
+Hi, I'm usants. I'm a PhD student at the U of A who has taken Human Language Technology I and II (LING 529, 532, respectively).
